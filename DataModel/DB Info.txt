@@ -1,0 +1,12 @@
+//SQL Server
+
+
+//Mongo DB
+DB Name : BlogDB
+Collection Name : Blogs
+
+
+//Cassendra DB
+
+
+
